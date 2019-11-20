@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+ekstest.pam filter=crypt diff=crypt
